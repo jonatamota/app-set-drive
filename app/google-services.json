@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072706422562",
+    "project_id": "set-drive",
+    "storage_bucket": "set-drive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072706422562:android:d23ce48549a9b5f036477b",
+        "android_client_info": {
+          "package_name": "com.example.setdrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfI63Vap3Eh4lQE4yn-c9yJGpME-09jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

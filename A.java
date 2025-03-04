@@ -1,0 +1,1 @@
+Necessário para os Dynamic Links, o Login do Google e o suporte por telefone no Auth. Edite os certificados SHA-1 nas configurações
